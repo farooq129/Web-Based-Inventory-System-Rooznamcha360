@@ -1,6 +1,6 @@
 # Rooznamcha360 - Web-Based Inventory Management-System
 <img width="1920" height="1200" alt="Rooznamcha360 - Inventory Management System" src="https://github.com/user-attachments/assets/0ee855a8-a763-4072-a3bc-b7bf26dad484" />
-*(Note: Client name "Pakistan Sweets" and data shown are for demonstration purposes)*
+*(Note: Client data shown are for demonstration purposes)*
 
 ## 🍰 Project Overview
 **Rooznamcha360** is a modern, web-based Inventory and POS solution built for a high-traffic retail business ("Pakistan Sweets"). 
